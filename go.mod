@@ -1,6 +1,6 @@
-module github.com/ornaishtattests/gotest/
+module github.com/ornaishtattests/gotest
 
-go 1.19
+go 1.19.3
 
 require rsc.io/quote v1.5.2
 
