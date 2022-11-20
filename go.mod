@@ -1,4 +1,4 @@
-module github.com/ornaishtattests/test
+module github.com/ornaishtattests/gotest
 
 go 1.19
 
